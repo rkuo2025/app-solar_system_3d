@@ -1,4 +1,5 @@
 # app-solar_system_3d
+`model`: ollama-local gemma4-31b-ctx64k<br>
 
 ## Prompt:
 ```
